@@ -13,7 +13,6 @@
     <modules>
         <module>api-gateway-service</module>
         <module>demo-backend-service</module>
-        <module>postman</module>
     </modules>
 
     <properties>
