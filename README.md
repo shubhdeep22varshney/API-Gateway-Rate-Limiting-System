@@ -1,5 +1,4 @@
-# 🚀 API Rate Limiter + Gateway Backend (JWT + Keycloak)
-
+# 🚀 API Gateway & Rate Limiting System (JWT + Keycloak)
 ## 📌 Overview
 
 A **production-style API Gateway backend** built with **Spring Boot + Spring Cloud Gateway**.
